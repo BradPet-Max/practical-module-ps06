@@ -1,4 +1,4 @@
-#Create an object called student with the required attributes
+#Q1-Create an object called student with the required attributes
 class Student:
     pass
 
@@ -13,7 +13,7 @@ print(student.studentNumber)
 print(student.course)
 print(student.yearLevel)
 
-#Create an empty object called vehicle, then assign
+#Q2-Create an empty object called vehicle, then assign
 class Vehicle:
     pass
 
