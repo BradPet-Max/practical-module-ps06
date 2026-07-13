@@ -4,7 +4,7 @@ class Student:
 
 student = Student()
 student.name = "Peter"
-student.studentNumber = "ST12345"
+student.studentNumber = "MVZPET003"
 student.course = "Data Science"
 student.yearLevel = 1
 
